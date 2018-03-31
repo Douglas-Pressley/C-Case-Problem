@@ -1,0 +1,9 @@
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.0\GreenvilleRevenue.deps.json
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.0\GreenvilleRevenue.runtimeconfig.json
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.0\GreenvilleRevenue.runtimeconfig.dev.json
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.0\GreenvilleRevenue.csprojResolveAssemblyReference.cache
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.0\GreenvilleRevenue.AssemblyInfo.cs
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.0\GreenvilleRevenue.dll
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.0\GreenvilleRevenue.pdb
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.0\GreenvilleRevenue.dll
+F:\CaseProblems\CaseProbelms7\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.0\GreenvilleRevenue.pdb
